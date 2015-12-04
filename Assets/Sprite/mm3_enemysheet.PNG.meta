@@ -1,0 +1,2585 @@
+fileFormatVersion: 2
+guid: 42e4d2539bbfc9942a1dd2040ec33e99
+timeCreated: 1449200882
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mm3_enemysheet_0
+    21300002: mm3_enemysheet_1
+    21300004: mm3_enemysheet_2
+    21300006: mm3_enemysheet_3
+    21300008: mm3_enemysheet_4
+    21300010: mm3_enemysheet_5
+    21300012: mm3_enemysheet_6
+    21300014: mm3_enemysheet_7
+    21300016: mm3_enemysheet_8
+    21300018: mm3_enemysheet_9
+    21300020: mm3_enemysheet_10
+    21300022: mm3_enemysheet_11
+    21300024: mm3_enemysheet_12
+    21300026: mm3_enemysheet_13
+    21300028: mm3_enemysheet_14
+    21300030: mm3_enemysheet_15
+    21300032: mm3_enemysheet_16
+    21300034: mm3_enemysheet_17
+    21300036: mm3_enemysheet_18
+    21300038: mm3_enemysheet_19
+    21300040: mm3_enemysheet_20
+    21300042: mm3_enemysheet_21
+    21300044: mm3_enemysheet_22
+    21300046: mm3_enemysheet_23
+    21300048: mm3_enemysheet_24
+    21300050: mm3_enemysheet_25
+    21300052: mm3_enemysheet_26
+    21300054: mm3_enemysheet_27
+    21300056: mm3_enemysheet_28
+    21300058: mm3_enemysheet_29
+    21300060: mm3_enemysheet_30
+    21300062: mm3_enemysheet_31
+    21300064: mm3_enemysheet_32
+    21300066: mm3_enemysheet_33
+    21300068: mm3_enemysheet_34
+    21300070: mm3_enemysheet_35
+    21300072: mm3_enemysheet_36
+    21300074: mm3_enemysheet_37
+    21300076: mm3_enemysheet_38
+    21300078: mm3_enemysheet_39
+    21300080: mm3_enemysheet_40
+    21300082: mm3_enemysheet_41
+    21300084: mm3_enemysheet_42
+    21300086: mm3_enemysheet_43
+    21300088: mm3_enemysheet_44
+    21300090: mm3_enemysheet_45
+    21300092: mm3_enemysheet_46
+    21300094: mm3_enemysheet_47
+    21300096: mm3_enemysheet_48
+    21300098: mm3_enemysheet_49
+    21300100: mm3_enemysheet_50
+    21300102: mm3_enemysheet_51
+    21300104: mm3_enemysheet_52
+    21300106: mm3_enemysheet_53
+    21300108: mm3_enemysheet_54
+    21300110: mm3_enemysheet_55
+    21300112: mm3_enemysheet_56
+    21300114: mm3_enemysheet_57
+    21300116: mm3_enemysheet_58
+    21300118: mm3_enemysheet_59
+    21300120: mm3_enemysheet_60
+    21300122: mm3_enemysheet_61
+    21300124: mm3_enemysheet_62
+    21300126: mm3_enemysheet_63
+    21300128: mm3_enemysheet_64
+    21300130: mm3_enemysheet_65
+    21300132: mm3_enemysheet_66
+    21300134: mm3_enemysheet_67
+    21300136: mm3_enemysheet_68
+    21300138: mm3_enemysheet_69
+    21300140: mm3_enemysheet_70
+    21300142: mm3_enemysheet_71
+    21300144: mm3_enemysheet_72
+    21300146: mm3_enemysheet_73
+    21300148: mm3_enemysheet_74
+    21300150: mm3_enemysheet_75
+    21300152: mm3_enemysheet_76
+    21300154: mm3_enemysheet_77
+    21300156: mm3_enemysheet_78
+    21300158: mm3_enemysheet_79
+    21300160: mm3_enemysheet_80
+    21300162: mm3_enemysheet_81
+    21300164: mm3_enemysheet_82
+    21300166: mm3_enemysheet_83
+    21300168: mm3_enemysheet_84
+    21300170: mm3_enemysheet_85
+    21300172: mm3_enemysheet_86
+    21300174: mm3_enemysheet_87
+    21300176: mm3_enemysheet_88
+    21300178: mm3_enemysheet_89
+    21300180: mm3_enemysheet_90
+    21300182: mm3_enemysheet_91
+    21300184: mm3_enemysheet_92
+    21300186: mm3_enemysheet_93
+    21300188: mm3_enemysheet_94
+    21300190: mm3_enemysheet_95
+    21300192: mm3_enemysheet_96
+    21300194: mm3_enemysheet_97
+    21300196: mm3_enemysheet_98
+    21300198: mm3_enemysheet_99
+    21300200: mm3_enemysheet_100
+    21300202: mm3_enemysheet_101
+    21300204: mm3_enemysheet_102
+    21300206: mm3_enemysheet_103
+    21300208: mm3_enemysheet_104
+    21300210: mm3_enemysheet_105
+    21300212: mm3_enemysheet_106
+    21300214: mm3_enemysheet_107
+    21300216: mm3_enemysheet_108
+    21300218: mm3_enemysheet_109
+    21300220: mm3_enemysheet_110
+    21300222: mm3_enemysheet_111
+    21300224: mm3_enemysheet_112
+    21300226: mm3_enemysheet_113
+    21300228: mm3_enemysheet_114
+    21300230: mm3_enemysheet_115
+    21300232: mm3_enemysheet_116
+    21300234: mm3_enemysheet_117
+    21300236: mm3_enemysheet_118
+    21300238: mm3_enemysheet_119
+    21300240: mm3_enemysheet_120
+    21300242: mm3_enemysheet_121
+    21300244: mm3_enemysheet_122
+    21300246: mm3_enemysheet_123
+    21300248: mm3_enemysheet_124
+    21300250: mm3_enemysheet_125
+    21300252: mm3_enemysheet_126
+    21300254: mm3_enemysheet_127
+    21300256: mm3_enemysheet_128
+    21300258: mm3_enemysheet_129
+    21300260: mm3_enemysheet_130
+    21300262: mm3_enemysheet_131
+    21300264: mm3_enemysheet_132
+    21300266: mm3_enemysheet_133
+    21300268: mm3_enemysheet_134
+    21300270: mm3_enemysheet_135
+    21300272: mm3_enemysheet_136
+    21300274: mm3_enemysheet_137
+    21300276: mm3_enemysheet_138
+    21300278: mm3_enemysheet_139
+    21300280: mm3_enemysheet_140
+    21300282: mm3_enemysheet_141
+    21300284: mm3_enemysheet_142
+    21300286: mm3_enemysheet_143
+    21300288: mm3_enemysheet_144
+    21300290: mm3_enemysheet_145
+    21300292: mm3_enemysheet_146
+    21300294: mm3_enemysheet_147
+    21300296: mm3_enemysheet_148
+    21300298: mm3_enemysheet_149
+    21300300: mm3_enemysheet_150
+    21300302: mm3_enemysheet_151
+    21300304: mm3_enemysheet_152
+    21300306: mm3_enemysheet_153
+    21300308: mm3_enemysheet_154
+    21300310: mm3_enemysheet_155
+    21300312: mm3_enemysheet_156
+    21300314: mm3_enemysheet_157
+    21300316: mm3_enemysheet_158
+    21300318: mm3_enemysheet_159
+    21300320: mm3_enemysheet_160
+    21300322: mm3_enemysheet_161
+    21300324: mm3_enemysheet_162
+    21300326: mm3_enemysheet_163
+    21300328: mm3_enemysheet_164
+    21300330: mm3_enemysheet_165
+    21300332: mm3_enemysheet_166
+    21300334: mm3_enemysheet_167
+    21300336: mm3_enemysheet_168
+    21300338: mm3_enemysheet_169
+    21300340: mm3_enemysheet_170
+    21300342: mm3_enemysheet_171
+    21300344: mm3_enemysheet_172
+    21300346: mm3_enemysheet_173
+    21300348: mm3_enemysheet_174
+    21300350: mm3_enemysheet_175
+    21300352: mm3_enemysheet_176
+    21300354: mm3_enemysheet_177
+    21300356: mm3_enemysheet_178
+    21300358: mm3_enemysheet_179
+    21300360: mm3_enemysheet_180
+    21300362: mm3_enemysheet_181
+    21300364: mm3_enemysheet_182
+    21300366: mm3_enemysheet_183
+    21300368: mm3_enemysheet_184
+    21300370: mm3_enemysheet_185
+    21300372: mm3_enemysheet_186
+    21300374: mm3_enemysheet_187
+    21300376: mm3_enemysheet_188
+    21300378: mm3_enemysheet_189
+    21300380: mm3_enemysheet_190
+    21300382: mm3_enemysheet_191
+    21300384: mm3_enemysheet_192
+    21300386: mm3_enemysheet_193
+    21300388: mm3_enemysheet_194
+    21300390: mm3_enemysheet_195
+    21300392: mm3_enemysheet_196
+    21300394: mm3_enemysheet_197
+    21300396: mm3_enemysheet_198
+    21300398: mm3_enemysheet_199
+    21300400: mm3_enemysheet_200
+    21300402: mm3_enemysheet_201
+    21300404: mm3_enemysheet_202
+    21300406: mm3_enemysheet_203
+    21300408: mm3_enemysheet_204
+    21300410: mm3_enemysheet_205
+    21300412: mm3_enemysheet_206
+    21300414: mm3_enemysheet_207
+    21300416: mm3_enemysheet_208
+    21300418: mm3_enemysheet_209
+    21300420: mm3_enemysheet_210
+    21300422: mm3_enemysheet_211
+    21300424: mm3_enemysheet_212
+    21300426: mm3_enemysheet_213
+    21300428: mm3_enemysheet_214
+    21300430: mm3_enemysheet_215
+    21300432: mm3_enemysheet_216
+    21300434: mm3_enemysheet_217
+    21300436: mm3_enemysheet_218
+    21300438: mm3_enemysheet_219
+    21300440: mm3_enemysheet_220
+    21300442: mm3_enemysheet_221
+    21300444: mm3_enemysheet_222
+    21300446: mm3_enemysheet_223
+    21300448: mm3_enemysheet_224
+    21300450: mm3_enemysheet_225
+    21300452: mm3_enemysheet_226
+    21300454: mm3_enemysheet_227
+    21300456: mm3_enemysheet_228
+    21300458: mm3_enemysheet_229
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mm3_enemysheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 477
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 477
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 477
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 477
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 477
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 477
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 477
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 477
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 477
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 477
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 477
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 472
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 472
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 472
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 438
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 451
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 451
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 451
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 429
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 429
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 450
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 450
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 450
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 450
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 450
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 450
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 450
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 437
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 437
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 437
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 424
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 424
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 424
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 429
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 429
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 429
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 429
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_37
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 429
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 429
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 429
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 429
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 429
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 394
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 394
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 424
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 424
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 410
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_48
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 410
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 410
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_51
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_53
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 410
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 410
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_55
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 410
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 394
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 394
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 394
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 384
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_60
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 384
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 384
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 384
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_64
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 384
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_67
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_70
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_71
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_72
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_73
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 390
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_77
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 302
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 302
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_79
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 336
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_80
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 336
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 336
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_82
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_83
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 352
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_84
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 352
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_85
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 353
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_86
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 353
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_87
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 333
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_88
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 333
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_89
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 333
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_90
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 333
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_92
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_94
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 313
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_96
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 325
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_97
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 333
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_98
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 333
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 332
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 334
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_101
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 333
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_102
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 300
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_104
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 300
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_105
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 301
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_106
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 296
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_107
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 298
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_108
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 288
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_109
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 288
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_110
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 288
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_111
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 288
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 237
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_113
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_114
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 237
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_115
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 237
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_116
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 237
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_117
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 237
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_118
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 237
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_119
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 237
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_120
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 237
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_121
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 237
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_122
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 250
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_123
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 250
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_124
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 239
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_125
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_128
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_129
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_130
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_131
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_132
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_133
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 155
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_134
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 155
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_135
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_136
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_137
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_138
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 205
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_139
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_140
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 194
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 202
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_142
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 202
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_143
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 210
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_145
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 188
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_146
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 179
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_147
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_148
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_149
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 175
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_150
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 182
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_151
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 182
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_152
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 182
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_153
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 182
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_154
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 182
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_155
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_156
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 179
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_157
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_158
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_159
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_160
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_162
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_163
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_164
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_165
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_166
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_167
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 146
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_168
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 146
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_169
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 154
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_170
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 155
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_171
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 155
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_172
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 155
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_173
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 151
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_174
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 151
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_175
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 151
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_176
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 93
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_177
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 93
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_179
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_180
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_181
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 93
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_182
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 93
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_183
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_184
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 99
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_185
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_186
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 99
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_187
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 106
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_188
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 106
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_189
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_190
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 103
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_191
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_192
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_193
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_194
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 105
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_195
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_196
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 48
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_197
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 48
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_198
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_199
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_200
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_201
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_203
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_204
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_205
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 51
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_206
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 51
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_207
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 51
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_208
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 53
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_209
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_210
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_211
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_212
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_213
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 29
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_214
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_215
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_216
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_217
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_218
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_219
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_220
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_222
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_223
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_224
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_225
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_226
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_227
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_228
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mm3_enemysheet_229
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
