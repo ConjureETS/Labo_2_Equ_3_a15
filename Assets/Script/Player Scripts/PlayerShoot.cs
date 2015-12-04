@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BallShoot : MonoBehaviour {
+public class PlayerShoot: MonoBehaviour {
 
 	public float speed;
 	public float distanceShoot=15;
