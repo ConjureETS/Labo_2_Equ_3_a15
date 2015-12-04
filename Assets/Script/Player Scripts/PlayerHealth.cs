@@ -28,11 +28,14 @@ public class PlayerHealth : MonoBehaviour
 		anim = GetComponent <Animator> ();
 		playerAudio = GetComponent <AudioSource> ();
 		playerController = GetComponent <PlayerController> ();
-		//playerShooting = GetComponentInChildren <PlayerShooting> ();
-		
-		// Set the initial health of the player.
-		currentHealth = startingHealth;
-	}
+        //playerShooting = GetComponentInChildren <PlayerShooting> ();
+        healthSlider = GameObject.FindGameObjectWithTag("HealthSlider").GetComponent<Slider>();
+
+
+        // Set the initial health of the player.
+        currentHealth = startingHealth;
+        
+    }
 	
 	
 	void Update ()
@@ -42,14 +45,17 @@ public class PlayerHealth : MonoBehaviour
 	}
 
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("HealthPickup"))
         {
             Debug.Log("Health Pickup");
             currentHealth = currentHealth + healthToRecoverOnPickup;
+            if (currentHealth > startingHealth)
+            {
+                currentHealth = startingHealth;
+            }
             healthSlider.value = currentHealth;
-            Destroy(other);
         }
     }
 
